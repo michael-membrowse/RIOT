@@ -5,6 +5,7 @@
 [![Getting Started Guide][guide-badge]][guide-link]
 [![Mastodon][mastodon-badge]][mastodon-link]
 [![Matrix][matrix-badge]][matrix-link]
+[![MemBrowse][membrowse-badge]][membrowse-link]
 
 <p align="center"><img src="doc/doxygen/src/riot-logo.svg" width="59%"><!--
                           ZZZZZZ
@@ -66,6 +67,8 @@ LGPL code.
 [mastodon-link]: https://floss.social/@RIOT_OS
 [matrix-badge]: https://img.shields.io/badge/chat-Matrix-brightgreen.svg
 [matrix-link]: https://matrix.to/#/#riot-os:matrix.org
+[membrowse-badge]: https://membrowse.com/badge.svg
+[membrowse-link]: https://membrowse.com/public/RIOT-OS/RIOT
 
 ## Getting Started
 
